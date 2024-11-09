@@ -1,4 +1,4 @@
-Beta Spectrum experiment
+Beta Spectrum experiment trial 2
 S     I(mA)  Counts      stat. error
 1	0	55	7.416198
 2	20	58	7.615773
