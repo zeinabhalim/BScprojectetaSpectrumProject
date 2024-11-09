@@ -1,5 +1,5 @@
 Beta Spectrum experiment
-S     I(mA)  Counts      error
+Rank     I(mA)  Counts      Stat. error
 1	0	32	5.65685
 2	30	50	7.07107
 3	40	52	7.2111
